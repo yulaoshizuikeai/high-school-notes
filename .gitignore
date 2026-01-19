@@ -1,0 +1,8 @@
+# Obsidian配置文件
+.obsidian/
+
+# Steward文件夹
+Steward/
+
+# 备份文件
+*_备份.md
