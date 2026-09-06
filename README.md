@@ -1,5 +1,13 @@
 # 📚 高中理科笔记集合
 
+<p align="center">
+  <a href="https://github.com/yulaoshizuikeai/high-school-notes/stargazers"><img src="https://img.shields.io/github/stars/yulaoshizuikeai/high-school-notes?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/yulaoshizuikeai/high-school-notes/network/members"><img src="https://img.shields.io/github/forks/yulaoshizuikeai/high-school-notes?style=flat-square&logo=github" alt="GitHub Forks" /></a>
+  <a href="https://github.com/yulaoshizuikeai/high-school-notes/issues"><img src="https://img.shields.io/github/issues/yulaoshizuikeai/high-school-notes?style=flat-square" alt="Issues" /></a>
+  <a href="https://github.com/yulaoshizuikeai/high-school-notes"><img src="https://img.shields.io/badge/Notes-High%20School-brightgreen?style=flat-square" alt="Notes" /></a>
+</p>
+
+
 > 系统整理的高中学科笔记，涵盖数学、物理、生物、英语、语文五大学科。
 
 ## 📖 项目简介
